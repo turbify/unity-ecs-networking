@@ -3,27 +3,11 @@
   "WorkspaceRootPath": "D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|d:\\unity\\unity-ecs-networking\\ecs-multiplayer\\assets\\scripts\\netcodesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\assets\\scripts\\netcodesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\netcodesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\assets\\scripts\\netcodeplayermovementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\netcodeplayermovementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\assets\\scripts\\netcodeplayerinputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\netcodeplayerinputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\assets\\scripts\\netcodeplayerinputauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\netcodeplayerinputauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\assets\\scripts\\goingameserversystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\goingameserversystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\assets\\scripts\\goingameclientsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|d:\\unity\\unity-ecs-networking\\ecs-multiplayer\\assets\\scripts\\goingameclientsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\goingameclientsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,12 +15,36 @@
       "RelativeMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\assets\\scripts\\entitiesreferencesauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entitiesreferencesauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\assets\\scripts\\playerauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\assets\\scripts\\netcodeplayerinputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\netcodeplayerinputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\assets\\scripts\\netcodeplayermovementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\netcodeplayermovementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\assets\\scripts\\buildconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\Assets\\Scripts\\DynamicAssembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DynamicAssembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\assets\\scripts\\goingameserversystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\goingameserversystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\assets\\scripts\\netcodeplayerinputauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\netcodeplayerinputauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\assets\\scripts\\entitiesreferencesauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8F2799-15ED-75BD-D3FE-E9F8B307F0CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entitiesreferencesauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +54,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DynamicAssembly.cs",
+              "DocumentMoniker": "D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\Assets\\Scripts\\DynamicAssembly.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DynamicAssembly.cs",
+              "ToolTip": "D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\Assets\\Scripts\\DynamicAssembly.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DynamicAssembly.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:15:14.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BuildConsole.cs",
+              "DocumentMoniker": "D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\Assets\\Scripts\\BuildConsole.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildConsole.cs",
+              "ToolTip": "D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\Assets\\Scripts\\BuildConsole.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuildConsole.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCkAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:18:26.088Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -56,38 +87,39 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\NetcodeSystem.cs",
               "ToolTip": "D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\Assets\\Scripts\\NetcodeSystem.cs",
               "RelativeToolTip": "Assets\\Scripts\\NetcodeSystem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAkAAAABAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAwFoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-29T14:11:08.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "GoInGameClientSystem.cs",
               "DocumentMoniker": "D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\Assets\\Scripts\\GoInGameClientSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GoInGameClientSystem.cs",
               "ToolTip": "D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\Assets\\Scripts\\GoInGameClientSystem.cs",
               "RelativeToolTip": "Assets\\Scripts\\GoInGameClientSystem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAyAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDIAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T23:49:32.94Z"
+              "WhenOpened": "2024-12-28T23:49:32.94Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "GoInGameServerSystem.cs",
               "DocumentMoniker": "D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\Assets\\Scripts\\GoInGameServerSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GoInGameServerSystem.cs",
               "ToolTip": "D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\Assets\\Scripts\\GoInGameServerSystem.cs",
               "RelativeToolTip": "Assets\\Scripts\\GoInGameServerSystem.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwBgAAABFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T23:48:03.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "NetcodePlayerInputAuthoring.cs",
               "DocumentMoniker": "D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\Assets\\Scripts\\NetcodePlayerInputAuthoring.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NetcodePlayerInputAuthoring.cs",
@@ -99,19 +131,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "NetcodePlayerInputSystem.cs",
               "DocumentMoniker": "D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\Assets\\Scripts\\NetcodePlayerInputSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NetcodePlayerInputSystem.cs",
               "ToolTip": "D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\Assets\\Scripts\\NetcodePlayerInputSystem.cs",
               "RelativeToolTip": "Assets\\Scripts\\NetcodePlayerInputSystem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-29T02:43:34.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "NetcodePlayerMovementSystem.cs",
               "DocumentMoniker": "D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\Assets\\Scripts\\NetcodePlayerMovementSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NetcodePlayerMovementSystem.cs",
@@ -123,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "GameBootstrap.cs",
               "DocumentMoniker": "D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\Assets\\Scripts\\GameBootstrap.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameBootstrap.cs",
@@ -135,19 +167,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "EntitiesReferencesAuthoring.cs",
               "DocumentMoniker": "D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\Assets\\Scripts\\EntitiesReferencesAuthoring.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EntitiesReferencesAuthoring.cs",
               "ToolTip": "D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\Assets\\Scripts\\EntitiesReferencesAuthoring.cs",
               "RelativeToolTip": "Assets\\Scripts\\EntitiesReferencesAuthoring.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-29T00:11:37.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "PlayerAuthoring.cs",
               "DocumentMoniker": "D:\\unity\\unity-ecs-networking\\ecs-multiplayer\\Assets\\Scripts\\PlayerAuthoring.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAuthoring.cs",
