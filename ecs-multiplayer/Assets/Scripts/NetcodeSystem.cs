@@ -12,6 +12,7 @@ public class NetcodeSystem : MonoBehaviour
     [SerializeField] private TMP_InputField _portField;
     [SerializeField] private Button _connectButton;
     [SerializeField] private Button _hostButton;
+    [SerializeField] private Button _serverButton;
 
     private ushort Port => ushort.Parse(_portField.text);
     private string Address => _addressField.text;
@@ -20,12 +21,14 @@ public class NetcodeSystem : MonoBehaviour
     {
         _connectButton.onClick.AddListener(OnButtonConnect);
         _hostButton.onClick.AddListener(OnButtonHost);
+        _serverButton.onClick.AddListener(OnButtonServer);
     }
 
     private void OnDisable()
     {
         _connectButton.onClick.RemoveAllListeners();
         _hostButton.onClick.RemoveAllListeners();
+        _serverButton.onClick.RemoveAllListeners();
     }
 
     private void Awake()
@@ -60,6 +63,16 @@ public class NetcodeSystem : MonoBehaviour
 
         StartClient();
     }
+
+    private void OnButtonServer()
+    {
+        DestroyLocalSimulationWorld();
+        SceneManager.LoadSceneAsync("GameScene", LoadSceneMode.Single);
+
+        StartServer();
+    }
+
+    
 
     private void StartServer()
     {
